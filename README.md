@@ -13,3 +13,5 @@ Through other studies, I am also proficient in statistical analysis in R and SPS
 
 Currently looking for an entry-level Data Science role where I can challenge myself and further develop my skills! 
 In the meantime, I'll be learning through self-study and uploading projects onto here.
+
+My LinkedIn profile: https://www.linkedin.com/in/laura-christen-9b0497133/
