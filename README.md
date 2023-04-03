@@ -1,4 +1,4 @@
-Hi, I'm Laura, a behavioural scientist with a passion for data science. 
+Hi, I'm Laura, a behavioural and data scientist with a passion for data. 
 
 I currently work for a government department, interrogating and improving machine learning models using Python, R, and SQL.
 
